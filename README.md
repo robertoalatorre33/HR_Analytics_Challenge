@@ -2,15 +2,8 @@
 
 Inspired by the 
 
-!['HR Analysis'](https://github.com/robertoalatorre33/HR_Analytics_Dashboard_Challenge/blob/281a8ce87aae81cfcee5ce83e46d69c681f4f92a/Visuals/Organizational%20Engagement%20Dashboard.jpg) Content next to the image.
-
-
-
-**Case:** You are a consultant working with a human capital division that provides people analytics services to Fortune 500 organizations. The organization has asked you to build a dashboard around their team and organizational performance and employee sentiment. This case is inspired by this Kaggle challenge.
-
----
-
-**Data:** Introduction to the HR Dataset - Version 14 - Last Updated April, 2021. This HR Dataset is a synthetic data set created specifically to use for HR analytics cases and is updated every year or so, by the owners. Updates include additional columns, and to make slight changes to the underlying data.
+!['HR Analysis'](https://github.com/robertoalatorre33/HR_Analytics_Dashboard_Challenge/blob/281a8ce87aae81cfcee5ce83e46d69c681f4f92a/Visuals/Organizational%20Engagement%20Dashboard.jpg) **Case:** You are a consultant working with a human capital division that provides people analytics services to Fortune 500 organizations. The organization has asked you to build a dashboard around their team and organizational performance and employee sentiment. This case is inspired by this Kaggle challenge.
+--- **Data:** Introduction to the HR Dataset - Version 14 - Last Updated April, 2021. This HR Dataset is a synthetic data set created specifically to use for HR analytics cases and is updated every year or so, by the owners. Updates include additional columns, and to make slight changes to the underlying data.
 
 ---
 
