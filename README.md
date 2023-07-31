@@ -9,7 +9,7 @@ Inspired by the
 
 ---
 
-**Inspirational Questions:** Here are some open-ended questions that you can explore and try to address through creating visualizations, or R or Python analyses.
+**Inspirational Questions:** Here are some open-ended questions that you can explore and try to address through creating visualizations in Tableau
 
 * What is the overall diversity profile of the organization?
 * What are our best recruiting sources if we want to ensure a diverse organization?
