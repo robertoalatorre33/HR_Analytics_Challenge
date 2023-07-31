@@ -2,9 +2,11 @@
 
 Case: You are a consultant working with a human capital division that provides people analytics services to Fortune 500 organizations. The organization has asked you to build a dashboard around their team and organizational performance and employee sentiment. This case is inspired by this Kaggle challenge.
 
+---
+
 Data: Introduction to the HR Dataset - Version 14 - Last Updated April, 2021. This HR Dataset is a synthetic data set created specifically to use for HR analytics cases and is updated every year or so, by the owners. Updates include additional columns, and to make slight changes to the underlying data.
 
-
+---
 
 **Inspirational Questions:** Here are some open-ended questions that you can explore and try to address through creating visualizations, or R or Python analyses.
 
