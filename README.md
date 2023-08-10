@@ -1,7 +1,7 @@
 # HR Analytics Dashboard Challenge
 Tableau Workshop - I did a 4-hour personal dashboard challenge using a data set from this [Kaggle challenge](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set).
 
-Prior to starting the challenge I cleaned and consolidated the four data sets using SQL. 
+Prior to starting the challenge, I utilized SQL to clean and consolidate data sets.
 
 <img src="https://github.com/robertoalatorre33/HR_Analytics_Dashboard_Challenge/blob/281a8ce87aae81cfcee5ce83e46d69c681f4f92a/Visuals/Organizational%20Engagement%20Dashboard.jpg"  width="400" height="350"> 
 
