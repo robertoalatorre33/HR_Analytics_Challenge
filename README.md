@@ -19,7 +19,9 @@ Prior to starting the challenge, I utilized SQL to clean and consolidate data se
 * Does working on special projects affects performance?
 * Can we predict who is going to terminate and who isn't? What level of accuracy can we achieve on this?
 
-Data Dictionary:
+---
+
+**Data Dictionary:**
 
 | Feature                  | Description                                                                               | DataType |
 |--------------------------|-------------------------------------------------------------------------------------------|----------|
