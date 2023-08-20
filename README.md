@@ -1,5 +1,7 @@
-# HR Analytics Dashboard Challenge
+# HR Analytics Analysis & Dashboard Challenge
 Tableau Workshop - I did a 4-hour personal dashboard challenge, utilizing SQL to clean and consolidate data before plugging it into Tableau.
+
+Also, utilized SQL to analyze data and answer some of the inspirational questions listed below. 
 
 Link to [**HR Analytics Dashboard**](https://public.tableau.com/app/profile/roberto.a.la.torre/viz/OrganizationalEngagementDiversityAnalysis_v1/Dashboard15) on Tableau Public.  
 
